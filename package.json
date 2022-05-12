@@ -1,0 +1,20 @@
+{
+  "name": "express-intro",
+  "version": "1.0.0",
+  "description": "this is an introduction for WDG#004 to express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "restful-api"
+  ],
+  "author": "julia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
