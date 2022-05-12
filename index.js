@@ -23,7 +23,7 @@ app
     )
   );
 
-//Endpunkte erstellen, der /users bzw /users/:id heißt und der alle CRUD Operations an einem User durchführen kann
+//Endpunkte erstellen, der /users bzw /users/:id heißt und an denen wir alle CRUD Operations an einem User durchführen können
 
 app
   .route("/users")
